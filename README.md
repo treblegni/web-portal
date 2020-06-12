@@ -2,7 +2,7 @@
 
 The Candidate Matchmaker Web Portal is a web application meant to be an adminstrative tool for users who would like add canditates to the Candidate Matchmaker App.
 
-...
+... ...
 
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
