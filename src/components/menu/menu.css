@@ -1,0 +1,9 @@
+.menu-container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    color: white;
+    height: inherit;
+    width: 16vw;
+    background-color: black;
+}
