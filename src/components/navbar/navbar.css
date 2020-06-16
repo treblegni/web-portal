@@ -1,9 +1,44 @@
 .navbar {
     display: inline-flex;
-    justify-content: center;
     align-items: center;
     color: white;
-    width: 100vw;
+    width: 100%;
     height: 3rem;
-    background-color: black;
+    background-color: rgb(54, 54, 54);
+}
+
+.nav-title-container {
+    position: absolute;
+    left: 30px;
+}
+
+.nav-title-container span {
+    
+}
+
+.nav-button-container {
+    position: absolute;
+    right: 30px;
+}
+
+.nav-button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    background-color: Transparent;
+    color: white;
+    border: none;
+    width: 115px;
+    height: 33px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-button span {
+    /*TODO: replace font*/
+    /* font-family: Roboto; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
 }
